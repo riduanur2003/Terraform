@@ -1,0 +1,3 @@
+very simple file... 
+
+just creates a simple ec2 server in the AWS cloud
