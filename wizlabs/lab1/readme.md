@@ -1,8 +1,8 @@
 in this project we will create a VPC and create few resources
 
-<h1>Task Details</h1>h
+<h1>Task Details</h1>
 
-1.Sign into AWS Management Console
+1. Sign into AWS Management Console
 
 2. Create a VPC
 
