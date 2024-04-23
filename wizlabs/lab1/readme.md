@@ -1,30 +1,31 @@
 in this project we will create a VPC and create few resources
 
-Task Details
-Sign into AWS Management Console
+<h1>Task Details</h1>h
 
-Create a VPC
+1.Sign into AWS Management Console
 
-Create and attach an Internet Gateway with custom VPC
+2. Create a VPC
 
-Create a Public and Private Subnet
+3. Create and attach an Internet Gateway with custom VPC
 
-Configure the Public subnet to enable auto-assign public IPv4 address
+4. Create a Public and Private Subnet
 
-Create a Route Table for the Public subnet
+5. Configure the Public subnet to enable auto-assign public IPv4 address
 
-Create security groups
+6. Create a Route Table for the Public subnet
 
-Create a Bastion Host (Publicly accessible EC2 Instance)
+7. Create security groups
 
-Create an Endpoint instance (Privately accessible EC2 instance)
+8. Create a Bastion Host (Publicly accessible EC2 Instance)
 
-SSH into Endpoint instance (Privately accessible) through Bastion host
+9. Create an Endpoint instance (Privately accessible EC2 instance)
 
-Create a VPC endpoint for S3, attach it to the Private subnet's Route table.
+10. SSH into Endpoint instance (Privately accessible) through Bastion host
 
-List all the S3 Bucket and its objects
+11. Create a VPC endpoint for S3, attach it to the Private subnet's Route table.
 
-Validation of the lab.
+12. List all the S3 Bucket and its objects
 
-Deleting AWS Resources.
+13. Validation of the lab.
+
+14. Deleting AWS Resources.
