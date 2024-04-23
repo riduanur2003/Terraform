@@ -1,5 +1,7 @@
 in this project we will create a VPC and create few resources
 
+<img src="images/architecture.png">
+
 <h1>Task Details</h1>
 
 1. Sign into AWS Management Console
